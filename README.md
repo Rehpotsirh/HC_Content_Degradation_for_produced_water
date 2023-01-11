@@ -23,3 +23,5 @@ The materials and apparatus used for this experiment include;
 # Results and Recommendation
 The initial total petroleum hydrocarbon contents calculated in the produced water sample was found to **125.513mg/l**, after it incubation period of 15days using the pure bacteria culture the value was then calculated and found out to be **84.527mg/l**. After the incubation period of 15 days the biodegradable bacteria could only degrade about **32.655%** of the total hydrocarbon content present in the produced water sample. According to groups of researchers, mixed bacteria culture is more effective than pure bacteria culture and can give a maximum of 98% biodegradation. Although not 100% efficient, the pure bacteria culture isolates found in the produced water sample was able to degrade the hydrocarbon content in the produced water to some extent, it is therefore a bio-degrader.
 
+
+### Research Assistant [Chris](https://www.researchgate.net/profile/Christopher-Ndubuisi)
